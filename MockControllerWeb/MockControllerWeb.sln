@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockControllerWeb", "MockControllerWeb\MockControllerWeb.csproj", "{D51C59DE-5D03-4F15-AA3F-DB56460160F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1F50A3B7-43B0-406A-88CE-E2C6F7B14813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D51C59DE-5D03-4F15-AA3F-DB56460160F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51C59DE-5D03-4F15-AA3F-DB56460160F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51C59DE-5D03-4F15-AA3F-DB56460160F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51C59DE-5D03-4F15-AA3F-DB56460160F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F50A3B7-43B0-406A-88CE-E2C6F7B14813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F50A3B7-43B0-406A-88CE-E2C6F7B14813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F50A3B7-43B0-406A-88CE-E2C6F7B14813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F50A3B7-43B0-406A-88CE-E2C6F7B14813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
